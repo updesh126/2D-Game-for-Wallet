@@ -56,3 +56,6 @@ TagManager:
   - name: Tire
     uniqueID: 3598793459
     locked: 0
+  - name: Stage
+    uniqueID: 4071780657
+    locked: 0
