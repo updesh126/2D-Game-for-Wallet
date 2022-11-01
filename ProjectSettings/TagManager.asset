@@ -41,17 +41,17 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: BG
-    uniqueID: 2002074413
-    locked: 0
-  - name: Road
-    uniqueID: 3966769123
-    locked: 0
-  - name: Character
+  - name: head
     uniqueID: 3801097379
     locked: 0
-  - name: Vehicle
+  - name: body
     uniqueID: 2607982031
+    locked: 0
+  - name: Car
+    uniqueID: 2002074413
+    locked: 0
+  - name: Tire
+    uniqueID: 3966769123
     locked: 0
   - name: Tire
     uniqueID: 3598793459
